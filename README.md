@@ -56,6 +56,13 @@ The main classification metrics of interest were Precision, Recall and AUC-ROC s
 
 2. XGB Classifier Algorithm
 
-The XGB Classifier Algorithm was deemed suitable for this due to it capabilities with handling imbalanced distributions.
+## Recommendations
+Give more attention to customers subscribed to international and voice mail plan by giving promotions and discounts.
+
+1. Implementing targeted customer retention programs so as to reduce churn rates. This can be designing international plan packages that cater to different economic classes.
+
+2. Engaging with customers through feedback mechanisms, such as incentivized surveys, will assist in better pricing, better international plan experiences.
+
+3. The XGB Classifier Algorithm was deemed suitable for this due to it capabilities with handling imbalanced distributions.
 
 
